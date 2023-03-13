@@ -1,7 +1,5 @@
 # Salary-Comparison
 
-### Course: CST3130 Advanced Web Development with Big Data
-
 ## Introduction
 A brief summary of what has been written in the proposal
 As stated in the project proposal the problem statement is as follows finding a job as a student, many websites and their salaries are spread out. The process is as follows: graduation dates are approaching. You begin searching for the latest available internships on LinkedIn. You find a couple, but the specific criteria you're looking for don't match. You then start looking elsewhere for available internships, let's say Glassdoor, for instance. Still, you then face the same process: navigating through a web of jobs across the internet and comparing to your intended criteria.
